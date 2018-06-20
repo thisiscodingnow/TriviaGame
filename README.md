@@ -8,4 +8,4 @@ Created a Trivia game using JavaScript for the logic and jQuery to manipulate HT
 
 HTML5 CSS3 JavaScript JQuery
 
-https://lindsfisch.github.io/TriviaGame/
+
